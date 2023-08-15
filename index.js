@@ -14,7 +14,7 @@ function isPalindrome(word) {
   }
 }
 
-console.log(isPalindrome("madam"))
+console.log(isPalindrome("max"))
 /* 
   function must first separate the passed 'word' into each individual character of the 'word', stored in a new array
   then iterate through that array but backwards
